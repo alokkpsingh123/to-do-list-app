@@ -29,6 +29,6 @@
     </fragment>
     <fragment
         android:id="@+id/deleteAllCompletedDialogFragment"
-        android:name="com.codinginflow.mvvmtodo.ui.deleteallcompleted.DeleteAllCompletedDialogFragment"
-        android:label="DeleteAllCompletedDialogFragment" /><action android:id="@+id/action_global_deleteAllCompletedDialogFragment" app:destination="@id/deleteAllCompletedDialogFragment"/>
+        android:name="com.codinginflow.mvvmtodo.ui.deleteallcompleted.DeleteAllCompletedDialogFragment" />
+    <action android:id="@+id/action_global_deleteAllCompletedDialogFragment3" app:destination="@id/deleteAllCompletedDialogFragment" />
 </navigation>
